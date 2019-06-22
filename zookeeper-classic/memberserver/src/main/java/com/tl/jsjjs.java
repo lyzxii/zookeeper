@@ -8,6 +8,9 @@ package com.tl;
  */
 public class jsjjs {
     public static void main(String[] args){
-        System.out.println("德瑞在看书吗?");
+
+        System.out.println("1:德瑞在看书");
+        System.out.println("2:德瑞在打游戏");
+
     }
 }
