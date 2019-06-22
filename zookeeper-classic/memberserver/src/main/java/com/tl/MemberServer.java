@@ -27,7 +27,7 @@ public class MemberServer  implements Watcher {
   private ZooKeeper zooKeeper;
 
   /***
-   * 服务进行注册
+   * 服务进行注册 jsjsj
    * 定义一个父节点为tl
    * 在TL下可以注册多个服务名称 模拟memberServer
    * @param serverInfo
