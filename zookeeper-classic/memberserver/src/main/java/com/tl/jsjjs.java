@@ -7,4 +7,7 @@ package com.tl;
  * @since: 1.0.0
  */
 public class jsjjs {
+    public static void main(String[] args){
+        System.out.println("德瑞");
+    }
 }
