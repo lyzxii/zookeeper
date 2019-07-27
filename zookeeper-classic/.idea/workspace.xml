@@ -121,8 +121,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/memberserver/src/main/java/com/tl/MemberServer.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="240">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+=======
             <state relative-caret-position="372">
               <caret line="29" selection-start-line="29" selection-end-line="30" />
+<<<<<<< HEAD
+=======
+>>>>>>> dev
+>>>>>>> c3058f28ef704ca9e3c413928b02f14bd555c378
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,12 +141,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/memberserver/src/main/java/com/tl/jsjjs.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="176">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+=======
+>>>>>>> c3058f28ef704ca9e3c413928b02f14bd555c378
             <state relative-caret-position="242">
               <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="e#171#172#0" expanded="true" />
                 <element signature="e#201#202#0" expanded="true" />
               </folding>
+<<<<<<< HEAD
+=======
+>>>>>>> dev
+>>>>>>> c3058f28ef704ca9e3c413928b02f14bd555c378
             </state>
           </provider>
         </entry>
@@ -294,38 +313,29 @@
           <expand>
             <path>
               <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zookeeper-classic" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zookeeper-classic" type="462c0819:PsiDirectoryNode" />
-              <item name="memberserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zookeeper-classic" type="462c0819:PsiDirectoryNode" />
-              <item name="memberserver" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zookeeper-classic" type="462c0819:PsiDirectoryNode" />
-              <item name="memberserver" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zookeeper-classic" type="462c0819:PsiDirectoryNode" />
-              <item name="memberserver" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zookeeper-classic" type="462c0819:PsiDirectoryNode" />
-              <item name="memberserver" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -333,8 +343,7 @@
             </path>
             <path>
               <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zookeeper-classic" type="462c0819:PsiDirectoryNode" />
-              <item name="memberserver" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -343,29 +352,54 @@
             </path>
             <path>
               <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zookeeper-classic" type="462c0819:PsiDirectoryNode" />
-              <item name="register" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zookeeper-classic" type="462c0819:PsiDirectoryNode" />
-              <item name="register" type="462c0819:PsiDirectoryNode" />
+              <item name="memberserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memberserver" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zookeeper-classic" type="462c0819:PsiDirectoryNode" />
-              <item name="register" type="462c0819:PsiDirectoryNode" />
+              <item name="memberserver" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zookeeper-classic" type="462c0819:PsiDirectoryNode" />
-              <item name="register" type="462c0819:PsiDirectoryNode" />
+              <item name="memberserver" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+>>>>>>> dev
+            </path>
+            <path>
+              <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memberserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+            </path>
+            <path>
+              <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memberserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tl" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="tl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zookeeper-classic" type="b2602c69:ProjectViewProjectNode" />
@@ -383,6 +417,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="tl" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -400,6 +435,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> dev
+>>>>>>> c3058f28ef704ca9e3c413928b02f14bd555c378
             </path>
           </expand>
           <select />
@@ -690,11 +728,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="31824000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="31213000" />
+=======
+    <option name="totallyTimeSpent" value="31824000" />
+>>>>>>> dev
+>>>>>>> c3058f28ef704ca9e3c413928b02f14bd555c378
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Web" order="1" side_tool="true" />
@@ -889,9 +934,28 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/memberserver/src/main/java/com/tl/demo.java" />
     <entry file="file://$PROJECT_DIR$/memberserver/src/test/java/com/tl/AppTest.java" />
     <entry file="file://$PROJECT_DIR$/memberserver/src/main/java/com/tl/test.java" />
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/register/src/main/java/com/tl/ZookeeperRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/memberserver/src/main/java/com/tl/demo.java" />
+    <entry file="file://$PROJECT_DIR$/memberserver/src/test/java/com/tl/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/memberserver/src/main/java/com/tl/test.java" />
+>>>>>>> dev
+>>>>>>> c3058f28ef704ca9e3c413928b02f14bd555c378
     <entry file="file://$PROJECT_DIR$/register/src/main/java/com/tl/ZookeeperWatcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6996">
@@ -985,6 +1049,18 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/memberserver/src/main/java/com/tl/demo.java" />
+    <entry file="file://$PROJECT_DIR$/memberserver/src/test/java/com/tl/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/memberserver/src/main/java/com/tl/test.java" />
+    <entry file="file://$PROJECT_DIR$/memberserver/src/main/java/com/tl/MemberServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+=======
+>>>>>>> c3058f28ef704ca9e3c413928b02f14bd555c378
     <entry file="file://$PROJECT_DIR$/register/src/main/java/com/tl/ZookeeperRegister.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -1037,6 +1113,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="29" selection-start-line="29" selection-end-line="30" />
+<<<<<<< HEAD
+=======
+>>>>>>> dev
+>>>>>>> c3058f28ef704ca9e3c413928b02f14bd555c378
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1045,12 +1125,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/memberserver/src/main/java/com/tl/jsjjs.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="176">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+=======
+>>>>>>> c3058f28ef704ca9e3c413928b02f14bd555c378
         <state relative-caret-position="242">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="e#171#172#0" expanded="true" />
             <element signature="e#201#202#0" expanded="true" />
           </folding>
+<<<<<<< HEAD
+=======
+>>>>>>> dev
+>>>>>>> c3058f28ef704ca9e3c413928b02f14bd555c378
         </state>
       </provider>
     </entry>
